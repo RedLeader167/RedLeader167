@@ -16,6 +16,6 @@ I'm working on some projects to then publish them here.
 
 #### Activity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=geckwwo&theme=dark&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=geckwwo&theme=dark&show_icons=true&a=1)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=geckwwo&theme=dark&layout=compact)
